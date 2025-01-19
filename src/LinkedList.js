@@ -42,6 +42,7 @@ class LinkedList {
 		this.head = newNode;
 		//we increase the length of the list
 		this.length++;
+		
 	}
 }
 

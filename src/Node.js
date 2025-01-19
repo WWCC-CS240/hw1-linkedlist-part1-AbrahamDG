@@ -16,6 +16,7 @@ class Node {
     //get next node in the list
     getNextNode(){
         return this.next;
+        
     }
 }
 
